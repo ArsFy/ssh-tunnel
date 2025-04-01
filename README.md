@@ -35,7 +35,7 @@ Easy to use SSH Tunnel, support automatic reconnection.
 ### Build
 
 ```bash
-go build -ldflags="-s -w" .
+go build -ldflags="-s -w -extldflags "-static"" .
 ```
 
 ### Run
