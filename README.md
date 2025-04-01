@@ -7,7 +7,7 @@ Easy to use SSH Tunnel, support automatic reconnection.
 
 ### Config
 
-```js
+```json
 {
     "server": [
         {
